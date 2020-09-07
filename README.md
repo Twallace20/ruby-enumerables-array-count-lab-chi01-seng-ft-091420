@@ -63,7 +63,7 @@ A **block** in Ruby refers to code inside `do...end` or curly braces `{}`. We've
 seen them before with `while` loops. The code stored inside will run every time
 the block is called. In this case, the code will run for every element in the
 array `count` is called from. We can access the current element as whatever name
-we define inside the pipes after `do`. In this case, we used `element`, but we
+we define inside thet pipes after `do`. In this case, we used `element`, but we
 could choose whatever name we'd like.
 
 In the block, we include code that will determine whether or not to count the
